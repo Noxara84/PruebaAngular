@@ -4,13 +4,13 @@ MIT
 @angular/core
 MIT
 
-@angular/forms
-MIT
-
 @angular/platform-browser
 MIT
 
 @angular/router
+MIT
+
+@angular/service-worker
 MIT
 
 css-loader
